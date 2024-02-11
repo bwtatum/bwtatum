@@ -11,6 +11,6 @@ My name is Brandon Tatum
 - 📫 How to reach me: bwtatum@my.waketech.edu
 
 
-This repository will be used for the class CTI-110</n>
+This repository will be used for the class CTI-110<br>
 In order to clone my web based repository onto my local work station I downloaded the GitHub Desktop application and followed the prompts.
 
