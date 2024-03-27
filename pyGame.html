@@ -23,9 +23,6 @@
         <label for="result">Result:</label><div name="result" id="result"></div>
     </form>
     <py-script>
-        import micropip
-        await micropip.install('numpy')
-        import numpy as np
         from pyscript import when
         @when("click", selector="#submit")
         def check_guess():
